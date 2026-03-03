@@ -2,6 +2,8 @@
 
 An introduction to AI agent security — covering how agents work, how they can be attacked, and how to defend them.
 
+[**Download slides (PDF)**](https://github.com/lghupan/intro-to-agentic-security/blob/main/ai-agents-security-slides.pdf)
+
 ## Overview
 
 - **Part 1 — Understanding Agents**: What AI agents are, real-world examples, and levels of autonomy (L1–L5)
